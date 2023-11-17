@@ -9,7 +9,6 @@ int main() {
     gg();
     return 0;
 }
-//dfsdfsdfdsfdsfsd
 
 int gg() {
     std::cout << "fdsfsdfds";
